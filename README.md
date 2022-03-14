@@ -1,0 +1,4 @@
+- Hello, I’m Sofía
+- I’m studying Computer Science
+- I'm currently learning various programming languages such as Python and JavaScript
+- Have a good day!
