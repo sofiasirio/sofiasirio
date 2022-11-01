@@ -1,3 +1,1 @@
-- Hello, I’m Sofía
-- I'm studying Computer Science
-- Have a good day!
+Computer Science
